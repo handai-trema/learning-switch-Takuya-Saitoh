@@ -90,7 +90,7 @@ NXST_FLOW reply (xid=0x4):
 
 次に、動作３実行後の各スイッチのフローテーブルと FDB を下図に示す。ここで、上部にある表がフローテーブルであり、下部にある表が FDB である。赤字のエントリは、当該動作の結果追加または更新されたエントリである。黒矢印は当該動作におけるパケットの流れを表している。
 
- ![](multi_learning_switch_action3.jpeg)
+ ![](multi_learning_switch_action3.JPG)
  
  動作３における MultiLearningSwitch の挙動を以下に列挙する。
  
